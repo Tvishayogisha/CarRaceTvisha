@@ -1,0 +1,7 @@
+body{
+    background: url(background_image.jpeg);
+}
+
+#myCanvas {
+    background-color: white; 
+}
